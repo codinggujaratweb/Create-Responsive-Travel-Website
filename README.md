@@ -1,5 +1,5 @@
 # Responsive Travel Website 🌊
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Travel-Website/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Travel-Website/)
 ###  Responsive Travel Website 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
